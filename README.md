@@ -54,7 +54,7 @@ The following Python libraries are used in this project:
 
 ## License
 
-This project is open-source and available under the MIT [LICENSE](LICENSE).
+This project is open-source and available under the [MIT LICENSE](LICENSE).
 
 ## Acknowledgements and Contributions
 
