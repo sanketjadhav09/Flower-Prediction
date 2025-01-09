@@ -22,7 +22,7 @@ The following Python libraries are used in this project:
 - tensorflow
 - Python Imaging Library (PIL)
   
-## Setup and Usage
+## Setup
 
 1. **Clone this Repository:**
    ```bash
